@@ -42,3 +42,8 @@ Backend
 AI / Logic
     ->NLP-based keyword extraction
     ->Regex pattern matching
+
+<img width="1916" height="929" alt="Screenshot 2025-12-24 233848" src="https://github.com/user-attachments/assets/86fc23c9-eca6-43c9-8d0f-60bba990b732" />
+<img width="1919" height="919" alt="Screenshot 2025-12-24 233941" src="https://github.com/user-attachments/assets/152c1cb0-fc7c-407a-b629-4d329ac95496" />
+<img width="1900" height="925" alt="Screenshot 2025-12-24 233956" src="https://github.com/user-attachments/assets/cd6f794d-d390-42cc-a65c-f327e11031e5" />
+
